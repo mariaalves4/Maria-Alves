@@ -12,3 +12,5 @@ estou estudando sobre a programação:
 </div><br/> 
 
 obrigada pela visita 🎀.
+
+<img src="https://media1.tenor.com/m/VXKFzyXFJRcAAAAC/sanrio-my.gif" alt="a pink and white bunny with a flower on its head is jumping in the air in a field of flowers ."/>
